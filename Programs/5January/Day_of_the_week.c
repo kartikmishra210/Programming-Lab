@@ -39,7 +39,6 @@ break;
 
 default:
 printf("Invalid Input!");
-break;
 
 }
 
