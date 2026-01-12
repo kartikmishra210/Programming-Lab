@@ -25,24 +25,47 @@ Programs are organized by **lab date**, matching how experiments were conducted 
 Programming_Lab/
 ├── LICENSE
 └── Programs/
-    ├── 8December/
-    │   ├── Hello_World.c
-    │   ├── KIIT.c
-    │   ├── University.c
-    │   ├── University2.c
-    │   └── H.c
-    ├── 11December/
-    │   ├── Arithmetic.c
-    │   ├── Area_Circle.c
-    │   ├── F_to_C.c
-    │   ├── Seconds_Conversion.c
-    │   └── Swap_3_var.c
-    ├── 15December/
-    │   ├── Area_Triangle.c
-    │   ├── Marks.c
-    │   ├── Swap_2_var.c
-    │   └── Time_Adder.c
-    └── 18December/
+    ├── 11December
+    │   ├── Area_Circle.c
+    │   ├── Arithmetic.c
+    │   ├── F_to_C.c
+    │   ├── Seconds_Conversion.c
+    │   └── Swap_3_var.c
+    ├── 12January
+    │   ├── Factors.c
+    │   ├── Multiplication_table.c
+    │   ├── Natural_numbers.c
+    │   ├── Odd_Numbers.c
+    │   ├── Questions.md
+    │   ├── Reverse_Num.c
+    │   └── Sum_of_even.c
+    ├── 15December
+    │   ├── Area_Triangle.c
+    │   ├── Marks.c
+    │   ├── Swap_2_var.c
+    │   └── Time_Adder.c
+    ├── 18December
+    │   ├── +_-_0.c
+    │   ├── even_or_odd.c
+    │   ├── grade.c
+    │   ├── greatest_of_three.c
+    │   ├── leap_year.c
+    │   └── smallest_num.c
+    ├── 5January
+    │   ├── Calc.c
+    │   ├── Check_case.c
+    │   ├── Day_of_the_week.c
+    │   ├── Happy_New_Year!!
+    │   └── Vowel_or_Consonant.c
+    ├── 8December
+    │   ├── H.c
+    │   ├── Hello_World.c
+    │   ├── KIIT.c
+    │   ├── University2.c
+    │   └── University.c
+    └── 8January
+        └── Notes_Questions.md
+
 ```
 
 Each folder contains simple standalone `.c` programs written during that lab session.
