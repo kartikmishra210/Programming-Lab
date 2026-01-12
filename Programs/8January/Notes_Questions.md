@@ -15,20 +15,23 @@
 
 - for Loop :
 
-  ```for(initialization;condition;updation)
+```
+for(initialization;condition;updation)
 	{codeblock}
-  ```
+```
 
 - while Loop :
 
-  ```while(condition) {
+```
+while(condition) {
 			statement,
 			updation
 		      }
-  ```
+```
 
 - do-while Loop :
 
-  ``` do{
+``` 
+do{
 		}while(condition);
-  ```
+```
