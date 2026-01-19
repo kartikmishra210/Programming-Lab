@@ -4,14 +4,14 @@
 
 int main(){
 
-for(int i=0;i<4;i++){
+for(int i=4;i>=0;i--){
 
-for(int s=3;s>=i;s--){
+for(int s=i;s>=0;s--){
 printf(" ");
 }
 
-for(int j=0;j<=i;j++){
-printf("* ");
+for(int j=0;j<=(4-i);j++){
+printf("*");
 }
 printf("\n");
 

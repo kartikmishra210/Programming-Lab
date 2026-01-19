@@ -1,4 +1,4 @@
-//Question 2 from Questions.md
+//Extra Question
 
 #include<stdio.h>
 
