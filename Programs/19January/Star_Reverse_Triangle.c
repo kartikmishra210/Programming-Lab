@@ -1,22 +1,15 @@
-//Question 2 from Questions.md
+#include <stdio.h>
 
-#include<stdio.h>
-
-int main(){
-
-for(int i=4;i>=0;i--){
-
-for(int s=i;s>=0;s--){
-printf(" ");
-}
-
-for(int j=0;j<=(4-i);j++){
-printf("*");
-}
-printf("\n");
-
-}
-
-return 0;
-
+int main() {
+   for(int i=1;i<=5;i++){
+       for(int j=1;j<=5-i;j++){
+           printf("  ");
+       }
+       for(int k=1;k<=i;k++){
+         printf("* ");
+       }
+    printf("\n");
+   }
+    printf("\n");
+    return 0;
 }
