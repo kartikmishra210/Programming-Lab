@@ -1,3 +1,5 @@
+//Question 2 from Questions.md
+
 #include <stdio.h>
 
 int main() {
